@@ -2,7 +2,7 @@
   "name": "workhardtravelhardapp",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "http://1wantogohome.github.io/workhardtravelhard",
+  "homepage": "http://1wantogohome.github.io/WHTHA",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
